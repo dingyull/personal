@@ -1,0 +1,151 @@
+
+
+#title {
+  background-color: #393e46;
+}
+
+.container-fluid {
+  padding: 1% 2%;
+}
+
+.nav-link{
+  font-family: 'Ubuntu';
+
+}
+
+.navbar-brand {
+font-family: 'Ubuntu';
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+
+span{
+  font-weight: bold;
+  color: #393e46;
+}
+
+.title{
+padding: 5% 0 0 0;
+margin-right: 0;
+}
+
+#about1{
+
+
+}
+
+.myname {
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+  font-size: 8.7rem;
+  color: #d8cc2f;
+  line-height: 100px;
+  padding-top: 50px;
+  padding-left: 5%;
+  margin: 0;
+}
+
+.intro {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  text-align: center;
+  padding-top: 45%;
+  padding-left: 3%;
+  color: #929aab;
+}
+
+
+.aboutme {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.7rem;
+  text-align: justify;
+  color: #929aab;
+  padding-right: 5%;
+  padding-top: 5%;
+}
+
+.picslides{
+  position: relative;
+  padding: 3% 5% 3% 5%;
+  background-color: #f7f7f7;
+}
+
+.cslide{
+
+  padding-top:5%;
+  padding-bottom: 5%;
+}
+
+
+.about{
+    color: #929aab;
+  text-align: center;
+
+}
+.aboutmep{
+    padding: 3% 5% 3% 5%;
+    background-color: #eeeeee;
+}
+
+.mee{
+  width: 70%
+}
+
+.mee1{
+  padding-top: 30px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 60%;
+}
+
+h3{
+  text-align: center;
+}
+.firstpic {
+  border-radius: 40%;
+  display: block;
+margin-left: auto;
+margin-right: auto;
+width: 80%;
+}
+
+#whatido{
+background-color: #eeeeee;
+
+}
+
+.skills{
+  color: #929aab;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+    padding: 3% 5% 3% 5%;
+}
+
+.contactme{
+  text-align: center;
+  font-size: 2rem;
+    color: #929aab;
+      font-weight: 500;
+  background-color: #f7f7f7;
+padding: 3% 5% 3% 5%;
+}
+
+.myemail{
+  font-weight: 700;
+  color: black;
+}
+
+
+
+.icons{
+  padding: 4% 4%;
+  font-size: 4rem;
+  color: #d8cc2f;
+}
+
+#footer {
+  text-align: center;
+}
